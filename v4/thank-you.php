@@ -130,7 +130,7 @@
                                         <div class="logo">
                                             <h1>
                                                 <a href="https://www.solar-money-saver.com/v4/index.php" title="Smart Solar Savings">
-                                                    <img src="/assets/images/Logo2.png" class="img-fluid" alt="Smart Solar Savings" title="Smart Solar Savings">
+                                                    <img src="/assets/images/Logo3.png" class="img-fluid" alt="Smart Solar Savings" title="Smart Solar Savings">
                                                 </a>
                                             </h1>
                                         </div>

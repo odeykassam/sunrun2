@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <!-- meta content for search -->
-    <link rel="icon" type="image/png" href="/assets/images/Logo2.png">
+    <link rel="icon" type="image/png" href="/assets/images/Logo3.png">
     <meta name="facebook-domain-verification" content="vpu4sozxe6l3bzb24q13q7937p2myf" />
     <meta name="keywords" content="" />
     <meta name="description" content="" />
@@ -375,7 +375,7 @@
                                     <div class="heading-survey">
                                         <div class="logo">
                                             <h1>
-                                                <img src="/assets/images/Logo2.png" alt="Powered By Solar Energy" title="Powered By Solar Energy">
+                                                <img src="/assets/images/Logo3.png" alt="Powered By Solar Energy" title="Powered By Solar Energy">
                                             </h1>
                                         </div>
                                     </div>
