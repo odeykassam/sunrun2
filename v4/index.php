@@ -393,7 +393,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 offset-lg-2">
                     <div id="form-header" class="heading-survey">
                         <h3>Get a Free Solar Quote</h3>
-                        <h4>Take this 60 second survey to see if you qualify!</h4>
+                        <h4>Take this 60 second questionnaire to see if you qualify!</h4>
                     </div>
                     <div class="banner-form-wrap">
                         <div class="progress_box">
@@ -403,7 +403,7 @@
                         </div>
                         <div id="loader" class="form_box">
                             <h2><em>Please wait while we save your information.</em></h2>
-                            <h2><em>Do not close this window while we verify your eligibility.</em></h2>
+                            <h2><em>Do not close this window.</em></h2>
                             <p class="in-progress" data-timeout="1500">
                                 Finding your home <span>..</span> <span class="status">done</span>
                             </p>
